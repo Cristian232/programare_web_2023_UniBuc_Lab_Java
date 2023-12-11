@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Laborator2/Laborator2.iml" filepath="$PROJECT_DIR$/Laborator2/Laborator2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Laborator4/Laborator3 (1).iml" filepath="$PROJECT_DIR$/Laborator4/Laborator3 (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Laborator5/Laborator5.iml" filepath="$PROJECT_DIR$/Laborator5/Laborator5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Laborator6/Laborator6.iml" filepath="$PROJECT_DIR$/Laborator6/Laborator6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Laborator7/Laborator7.iml" filepath="$PROJECT_DIR$/Laborator7/Laborator7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/laborator1/laborator1.iml" filepath="$PROJECT_DIR$/laborator1/laborator1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/programare_web_2023_UniBuc_Lab_Java.iml" filepath="$PROJECT_DIR$/.idea/programare_web_2023_UniBuc_Lab_Java.iml" />
+    </modules>
+  </component>
+</project>
